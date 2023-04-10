@@ -4,4 +4,5 @@ AAAAAAA
 OOOOOOO
 XXXXXXX
   *tttttt
+  *eeeeee
 VVVVVVV
