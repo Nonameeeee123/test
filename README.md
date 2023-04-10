@@ -1,2 +1,2 @@
-# resolusi
-Repository untuk menyimpan rencana kedepannya
+# test
+test
