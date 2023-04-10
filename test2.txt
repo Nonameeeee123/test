@@ -1,6 +1,8 @@
 AAAAAAA
   *aaaaaa
   *bbbbbb
+OOOOOOO
 XXXXXXX
-  *pppppp
+  *tttttt
+  *eeeeee
 VVVVVVV
